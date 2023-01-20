@@ -7,6 +7,7 @@ public class SampleGit {
   System.out.println("from repository(github)");
   System.out.println("clone succesful");
   System.out.println("after clonning");
-  System.out.println("commit from eclipse");
-}
+
+		system.out.println("from 2 repository");
+System.out.println("conflict resolved");
 }
