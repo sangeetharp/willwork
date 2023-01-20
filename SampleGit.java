@@ -5,8 +5,11 @@ public class SampleGit {
 	
 
   System.out.println("from repository(github)");
+
   System.out.println("clone succesful");
   System.out.println("after clonning");
 		system.out.println("from 2 repository");
-}
+
+  
+
 }
