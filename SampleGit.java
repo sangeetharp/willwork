@@ -10,4 +10,5 @@ public class SampleGit {
 
 		system.out.println("from 2 repository");
 System.out.println("conflict resolved");
+
 }
