@@ -8,7 +8,10 @@ public class SampleGit {
   System.out.println("clone succesful");
   System.out.println("after clonning");
 
-		system.out.println("from 2 repository");
+		System.out.println("from 2 repository");
 System.out.println("conflict resolved");
+System.out.println("akka nalarukingala");
+System.out.println("saptingala ka");
+System.out.println("udamba paathukonga ka");
 
 }
